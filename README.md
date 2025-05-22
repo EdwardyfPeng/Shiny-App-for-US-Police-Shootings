@@ -4,6 +4,7 @@ Homework 2 of STAT436 for 2025 Spring in UW-Madison
 ## Introduction
 
 Michael Brown, an unarmed Black man, was killed in 2014 by police in Ferguson, Mo., which increased nationwide focus on police accountability. Since a subsequent investigation by Post found that data reported to the FBI on fatal police shootings was undercounted by more than half, the Washington Post began in 2015 to log every person shot and killed by an on-duty police officer in the US.
+![image](https://github.com/user-attachments/assets/247298ca-bd14-4e85-a968-2a42876efb26)
 
 A shiny app has been developed to display the shooting information based on the data recorded by the Washington Post. It has already been hosted online (https://edwardpeng.shinyapps.io/homework2/). 
 
